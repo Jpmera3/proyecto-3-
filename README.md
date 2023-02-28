@@ -35,6 +35,8 @@ ANPLIFICADOR OPERACIONAL LM358
 
 SENSOR DE TEMPERATURA LM35
 
+![image](https://user-images.githubusercontent.com/104911658/221883546-b051e01d-d137-4c99-aa6c-443cedf52973.png)
+
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
 
@@ -54,6 +56,10 @@ Circuito esquematico a evaluar y armar
 
 Procedimiento grafico
 
+Protoboard Jean Mera 
+
+![image](https://user-images.githubusercontent.com/104911658/221884301-eef6c4c7-2050-42e5-9302-039cd23529a9.png)
+![image](https://user-images.githubusercontent.com/104911658/221884961-42a41135-f0bf-4bbc-a6fe-6d5912f731d1.png)
 
 
 VIDEO
