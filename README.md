@@ -33,6 +33,8 @@ ANPLIFICADOR OPERACIONAL LM358
 
 ![image](https://user-images.githubusercontent.com/104911658/221935668-c9b503b4-ee2f-4934-8964-958c7e5f5677.png)
 
+![LM358](https://user-images.githubusercontent.com/117534483/221938319-304dff74-5a59-4af3-bbbe-3aa256c44041.png)
+
 SENSOR DE TEMPERATURA LM35
 
 ![image](https://user-images.githubusercontent.com/104911658/221914256-54ff6f7e-5453-419a-8157-26571e4f7ad6.png)
