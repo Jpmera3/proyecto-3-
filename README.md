@@ -55,7 +55,7 @@ Circuito esquematico a evaluar y armar
 
 ESQUEMA DEL CIRCUITO MEDIDIOR DE TEMPERATURA
 
-
+![Esquema proyecto 3](https://user-images.githubusercontent.com/117534483/221920648-2852600c-09f6-4f23-bb4a-198a9372bd44.png)
 
 Procedimiento grafico del Circuito.
 
@@ -85,7 +85,7 @@ LED ROJO ENCENDIDO SI LA TEMPERATURA ES MAYOR A 40°
 
 VIDEO
 
-
+-
 
 CONCLUSIONES
 
