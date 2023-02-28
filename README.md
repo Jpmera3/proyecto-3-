@@ -13,19 +13,29 @@ Integrantes:
 
 Parcial: 3
 
-Proyecto 3: TEMA: 
+Proyecto 3: TEMA: MEDIDIOR DE TEMPERATURA
 
 2 OBJETIVOS
 
 2.1 OBJETIVO GENERAL
 
-Comprender el funcionamiento 
+Comprender el funcionamiento de un circuito con un sensor de temperatura y un amplificador operacional.
 
 2.2 OBJETIVOS ESPECIFICOS
 
-* Realizar la construcción de un circuito 
+* Identificar el tipo de sensor y el amplificador operacionala que se utilizaran en el circuito. 
+
+* Realizar la construcción de un circuito segun corresponda con los implementos adecuados.
 
 2.3 MARCO TEORICO
+
+Los
+
+ANPLIFICADOR OPERACIONAL LM358
+
+SENSOR DE TEMPERATURA LM35
+
+POTENCIOMETRO DE PRECICION DE 10KOhms
 
 
 
