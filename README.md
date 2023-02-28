@@ -28,10 +28,9 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 * Realizar la construcción de un circuito segun corresponda con los implementos adecuados.
 
 2.3 MARCO TEORICO
-
-
-
 ANPLIFICADOR OPERACIONAL LM358
+
+![image](https://user-images.githubusercontent.com/104911658/221890099-90e86eb3-a1ad-498a-85e1-986db1fb649b.png)
 
 SENSOR DE TEMPERATURA LM35
 
