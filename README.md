@@ -39,7 +39,8 @@ SENSOR DE TEMPERATURA LM35
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
-![Colorido Minimalista Formas Interna Breve Presentación de Vídeo](https://user-images.githubusercontent.com/107088999/221926628-eeabb653-24cc-4f81-8992-f024b6a6ff8f.jpg)
+![image](https://user-images.githubusercontent.com/107088999/221929172-82eb2e42-3720-4691-afaa-9e1f3794af0a.png)
+
 
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
