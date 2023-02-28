@@ -79,4 +79,5 @@ Protoboard Jean Mera
 
 ![image](https://user-images.githubusercontent.com/104911658/221912257-16f16ef8-fd62-4d3e-87fd-5bacfc626a22.png)
 
-![image](https://user-images.githubusercontent.com/104911658/221912532-a39f815a-5b5e-498d-830d-0996d259265c.png)
+![image](https://user-images.githubusercontent.com/104911658/221912811-3c6d35dc-b7f9-4ff0-a7b5-b500d4c7d412.png)
+
