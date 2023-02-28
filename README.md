@@ -73,3 +73,10 @@ BIBLIOGRAFÍA
 
 * Díaz-Díaz, M. Á., Rivas-Trasancos, L., León-Barrios, M., & Acosta-Sánchez, J. (2018). Interruptor de pared de 3 módulos de 3 vías de pared blanco; la llave de contacto. Revista Cubana de Química, 30(2), 289-298.
 
+ANEXO 
+
+Protoboard Jean Mera
+
+![image](https://user-images.githubusercontent.com/104911658/221912257-16f16ef8-fd62-4d3e-87fd-5bacfc626a22.png)
+
+![image](https://user-images.githubusercontent.com/104911658/221912532-a39f815a-5b5e-498d-830d-0996d259265c.png)
