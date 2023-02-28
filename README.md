@@ -99,7 +99,8 @@ BIBLIOGRAFÍA
 
 Anexos
 
-![image](https://user-images.githubusercontent.com/104911658/221913471-3f9d8125-ad24-44d1-98f6-4c8f2b74df78.png)
+Protoboard Jean Mera
 
 ![image](https://user-images.githubusercontent.com/104911658/221913555-f44e4e0b-fcad-4b05-b5c3-6366ebfc598f.png)
 
+![image](https://user-images.githubusercontent.com/104911658/221915324-640a9e88-9fcc-4fa3-a299-bcefc367a7a6.png)
