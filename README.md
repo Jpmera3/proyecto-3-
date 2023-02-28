@@ -31,7 +31,7 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 
 ANPLIFICADOR OPERACIONAL LM358
 
-![image](https://user-images.githubusercontent.com/104911658/221914120-8e7c1fa6-99ad-4825-85e6-86be1da2a06e.png)
+![image](https://user-images.githubusercontent.com/104911658/221935668-c9b503b4-ee2f-4934-8964-958c7e5f5677.png)
 
 SENSOR DE TEMPERATURA LM35
 
