@@ -29,14 +29,11 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 
 2.3 MARCO TEORICO
 
+
+
 ANPLIFICADOR OPERACIONAL LM358
 
-![image](https://user-images.githubusercontent.com/104911658/221890099-90e86eb3-a1ad-498a-85e1-986db1fb649b.png)
-
 SENSOR DE TEMPERATURA LM35
-
-![image](https://user-images.githubusercontent.com/104911658/221893183-f2630287-30ad-4749-a7e7-967921c8fe37.png)
-
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
@@ -57,10 +54,6 @@ Circuito esquematico a evaluar y armar
 
 Procedimiento grafico
 
-Protoboard Jean Mera 
-
-![image](https://user-images.githubusercontent.com/104911658/221884301-eef6c4c7-2050-42e5-9302-039cd23529a9.png)
-![image](https://user-images.githubusercontent.com/104911658/221884961-42a41135-f0bf-4bbc-a6fe-6d5912f731d1.png)
 
 
 VIDEO
@@ -69,7 +62,9 @@ VIDEO
 
 CONCLUSIONES
 
- 
+- En fin el proyecto se desarrollo entendiendo el funcionamiento de cada uno de sus sensores comparando la temperatura empleada en el sensor mostrandonos de forma visible en los diodos led.
+
+- En conclusion para lograr el trabajo se utiliza el sensor integrado Lm35 y el amplificador operacional lm358 de este ultimo utilizando una de sus funciones la cual es la comparacion que permitira el paso a la temperatura indicada con el potenciometro. 
 
 
 BIBLIOGRAFÍA
