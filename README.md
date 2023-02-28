@@ -29,13 +29,11 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 
 2.3 MARCO TEORICO
 
+
+
 ANPLIFICADOR OPERACIONAL LM358
 
-![image](https://user-images.githubusercontent.com/104911658/221911331-f693d5a4-6af6-4ac1-a5eb-73484a97ef10.png)
-
 SENSOR DE TEMPERATURA LM35
-
-![image](https://user-images.githubusercontent.com/104911658/221911648-4f30f353-b71a-4929-8cae-93967441d31e.png)
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
@@ -48,15 +46,39 @@ Tabla de materiales
 
 Circuito esquematico a evaluar y armar
 
-
+![Esquema medidor de temperatura](https://user-images.githubusercontent.com/117534483/221912752-9a248439-8be0-44c1-a61e-e072f89fc25b.PNG)
 
 2.5 Procedimiento
 
+ESQUEMA DEL CIRCUITO MEDIDIOR DE TEMPERATURA
 
 
-Procedimiento grafico
 
+Procedimiento grafico del Circuito.
 
+![1](https://user-images.githubusercontent.com/117534483/221911919-45d09596-bfa5-439e-ac09-f58a06ca3a0a.jpg)
+
+![2](https://user-images.githubusercontent.com/117534483/221911923-0969c5dd-f905-4a5b-ab16-9f47af0f48a8.jpg)
+
+![3](https://user-images.githubusercontent.com/117534483/221911931-f8d117e0-cdd7-44bb-a9e4-192cdd70b46b.jpg)
+
+![4](https://user-images.githubusercontent.com/117534483/221911936-7c4e2b79-8c46-4a20-ad33-a1c2c5178429.jpg)
+
+![5](https://user-images.githubusercontent.com/117534483/221911937-5dd6a8b9-bb17-4bb1-9cc3-ebaf8ea57bb4.jpg)
+
+![6](https://user-images.githubusercontent.com/117534483/221911941-98e9ab01-4e2d-4a6d-a35b-e53e5b7dadde.jpg)
+
+REGULACION DEL POTENCIOMETRO A 400 mV
+
+![7](https://user-images.githubusercontent.com/117534483/221911942-1aeef519-7489-4818-9c35-5b44cc5efc1d.jpg)
+
+LED VERDE ENCENDIDO SI LA TEMPERATURA ES MENOR A 40°
+
+![8](https://user-images.githubusercontent.com/117534483/221911943-2febbb63-588d-4be7-b29b-a9c210b7e9ee.jpg)
+
+LED ROJO ENCENDIDO SI LA TEMPERATURA ES MAYOR A 40°
+
+![9](https://user-images.githubusercontent.com/117534483/221911947-acc2f91f-c2c2-4190-ba95-5f14184fa787.jpg)
 
 VIDEO
 
@@ -72,12 +94,4 @@ CONCLUSIONES
 BIBLIOGRAFÍA
 
 * Díaz-Díaz, M. Á., Rivas-Trasancos, L., León-Barrios, M., & Acosta-Sánchez, J. (2018). Interruptor de pared de 3 módulos de 3 vías de pared blanco; la llave de contacto. Revista Cubana de Química, 30(2), 289-298.
-
-ANEXO 
-
-Protoboard Jean Mera
-
-![image](https://user-images.githubusercontent.com/104911658/221912257-16f16ef8-fd62-4d3e-87fd-5bacfc626a22.png)
-
-![image](https://user-images.githubusercontent.com/104911658/221912811-3c6d35dc-b7f9-4ff0-a7b5-b500d4c7d412.png)
 
