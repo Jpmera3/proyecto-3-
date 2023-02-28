@@ -35,7 +35,7 @@ ANPLIFICADOR OPERACIONAL LM358
 
 SENSOR DE TEMPERATURA LM35
 
-![image](https://user-images.githubusercontent.com/104911658/221911399-2584c3ed-cf94-4b83-8185-fd87ee22e57d.png)
+![image](https://user-images.githubusercontent.com/104911658/221911648-4f30f353-b71a-4929-8cae-93967441d31e.png)
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
