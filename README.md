@@ -92,11 +92,6 @@ CONCLUSIONES
 
 - En conclusion para lograr el trabajo se utiliza el sensor integrado Lm35 y el amplificador operacional lm358 de este ultimo utilizando una de sus funciones la cual es la comparacion que permitira el paso a la temperatura indicada con el potenciometro. 
 
-
-BIBLIOGRAFÍA
-
-* Díaz-Díaz, M. Á., Rivas-Trasancos, L., León-Barrios, M., & Acosta-Sánchez, J. (2018). Interruptor de pared de 3 módulos de 3 vías de pared blanco; la llave de contacto. Revista Cubana de Química, 30(2), 289-298.
-
 Anexos
 
 Protoboard Jean Mera
@@ -104,3 +99,8 @@ Protoboard Jean Mera
 ![image](https://user-images.githubusercontent.com/104911658/221913555-f44e4e0b-fcad-4b05-b5c3-6366ebfc598f.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/221915324-640a9e88-9fcc-4fa3-a299-bcefc367a7a6.png)
+
+BIBLIOGRAFÍA
+
+* Díaz-Díaz, M. Á., Rivas-Trasancos, L., León-Barrios, M., & Acosta-Sánchez, J. (2018). Interruptor de pared de 3 módulos de 3 vías de pared blanco; la llave de contacto. Revista Cubana de Química, 30(2), 289-298.
+
