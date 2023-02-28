@@ -29,14 +29,13 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 
 2.3 MARCO TEORICO
 
-Los
+
 
 ANPLIFICADOR OPERACIONAL LM358
 
 SENSOR DE TEMPERATURA LM35
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
-
 
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
