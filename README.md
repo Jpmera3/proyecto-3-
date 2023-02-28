@@ -29,11 +29,13 @@ Comprender el funcionamiento de un circuito con un sensor de temperatura y un am
 
 2.3 MARCO TEORICO
 
-
-
 ANPLIFICADOR OPERACIONAL LM358
 
+![image](https://user-images.githubusercontent.com/104911658/221914120-8e7c1fa6-99ad-4825-85e6-86be1da2a06e.png)
+
 SENSOR DE TEMPERATURA LM35
+
+![image](https://user-images.githubusercontent.com/104911658/221914256-54ff6f7e-5453-419a-8157-26571e4f7ad6.png)
 
 POTENCIOMETRO DE PRECICION DE 10KOhms
 
